@@ -1,4 +1,4 @@
-## Hola, soy Arkhon2 👋
+## Hola, soy Marcos 👋
 
 Creo **herramientas prácticas para Windows** que resuelven problemas del día a día: audio, periféricos y automatización.
 Me gusta que el software sea simple de usar, aunque por dentro tenga que medir y sincronizar en milisegundos.
